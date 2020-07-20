@@ -37,7 +37,7 @@ $ npm install mongoose
 
 # Arquiteture
 
-[`.
+````.
 ├── bin
 ├── node_modules
 ├── public
@@ -55,7 +55,8 @@ $ npm install mongoose
 ├── views
 ├── package-lock.json
 ├── package.json
-└── server.js`]
+└── server.js
+````
 
 # we have following folders
 

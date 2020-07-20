@@ -82,6 +82,5 @@ PUT:     /api/users/update
 
 DELETE: /api/users/delete
 
-# Tutorial 
 
 - https://scotch.io/@vigneshsithirai/basic-crud-operation-with-nodejs-express-and-mongodb
